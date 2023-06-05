@@ -1,6 +1,7 @@
 # mnist-dataset
-Using various ML models on the MNIST digits dataset. The models include-
+Using various ML models on the MNIST (Modified National Institute of Standards and Technology) digits dataset. This dataset is really good for prototyping ML models.
 
+The models include-
 1. Logistic Regression
 2. SGDClassifier
 3. SVM Classifier
