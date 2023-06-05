@@ -7,3 +7,5 @@ The models include-
 4. Decision Tree Classifier
 5. Random Forest Classifier
 6. XGBoost Classifier
+
+Hyperparameter tuning was done to improve the performance of the model on test set
